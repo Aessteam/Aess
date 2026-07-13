@@ -1,0 +1,6 @@
+# Büyük veri setini ve eğitim sonuçlarını GitHub'a gönderme
+veri_seti/
+runs/
+*.pt
+__pycache__/
+.ipynb_checkpoints/
