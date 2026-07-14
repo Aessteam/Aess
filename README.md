@@ -22,12 +22,7 @@ The model was trained locally using a custom dataset. The training logs, loss cu
 | **Stealth-Guard v1.0** | YOLOv8n | 640x640 |
 
 ### Training Results (Loss & Accuracy)
-> 💡 *Click on the image below to view the detailed training metrics.*
 
-![Training Results](runs/detect/train/results.png)
-
-### Confusion Matrix
-![Confusion Matrix](runs/detect/train/confusion_matrix.png)
 
 ---
 
